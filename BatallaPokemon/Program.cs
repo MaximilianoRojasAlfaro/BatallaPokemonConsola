@@ -14,7 +14,7 @@ namespace BatallaPokemon
         static void Main(string[] args)
         {
 
-            //Ataques
+            //Ataques:
 
             //Normal
             Ataque Placaje = new Ataque("Placaje", "Normal", 20, 24);
